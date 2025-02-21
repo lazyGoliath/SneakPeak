@@ -55,11 +55,11 @@ const Header = () => {
 
             <div className='header py-3'>
                 <div className='container flex items-center justify-between'>
-                    <div className='col1 w-[25%]'>
-                        <Link to={'/'}><img src='./src/assets/SNEAKPEAK.png' className='max-w-full h-auto' style={{ maxWidth: '30%' }}/></Link>
+                    <div className='col1 w-[15%]'>
+                        <Link to={'/'}><img src='./src/assets/SNEAKPEAK.png' className='w-full h-auto color-orange' style={{ maxWidth: '100%', maxHeight: '70px' }}/></Link>
                     </div>
 
-                    <div className='col2 w-[45%]'>
+                    <div className='col2 w-[55%]'>
                         <Search />
                     </div>
 

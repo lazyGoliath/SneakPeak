@@ -16,9 +16,11 @@ import { Navigation } from 'swiper/modules';
 import { Pagination } from 'swiper/modules';
 import { Autoplay } from 'swiper/modules';
 
+import { Link } from 'react-router-dom';
+
 const HomeCatSlider = () => {
     return (
-        <div className='homeCatSlider'>
+        <div className='homeCatSlider py-8 pt-4'>
             <div className='container rounded-[10px]'>
             <Swiper navigation={true} spaceBetween={10} slidesPerView={5} loop={true}
                 pagination={{

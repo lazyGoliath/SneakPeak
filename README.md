@@ -1,2 +1,3 @@
 # SneakPeak
-ecom
+
+dummy project for my uni course

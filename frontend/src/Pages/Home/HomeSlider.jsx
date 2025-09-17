@@ -47,11 +47,11 @@ const HomeSlider = () => {
                             alt="slider-1" className='w-full h-full object-cover rounded-lg'/>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <img src="https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/bltade94cf09eea34b2/67b7ebc75dcb773a66dcf97d/EN-Nike_Foamposite_Galaxy_(New_Release)Primary_Desktop-Small.jpg?auto=webp&format=pjpg&quality=75&dpr=2&width=1246"
+                        <img src="https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/blt271cb648145a345b/67eab338deb0563a3db01de4/EN-The_Opium_EditPrimary_Desktop-Small.jpg?auto=webp&format=pjpg&quality=75&dpr=2&width=1246"
                             alt="slider-1" className='w-full h-full object-cover rounded-lg'/>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <img src="https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/bltade94cf09eea34b2/67b7ebc75dcb773a66dcf97d/EN-Nike_Foamposite_Galaxy_(New_Release)Primary_Desktop-Small.jpg?auto=webp&format=pjpg&quality=75&dpr=2&width=1246"
+                        <img src="https://images-cs.stockx.com/v3/assets/blt818b0c67cf450811/blt0511d4aa08aa3971/67ea96a3586191469cd4f138/Nike_x_CPFM_-_EN_-_Primary_Desktop-Small.jpg?auto=webp&format=pjpg&quality=75&dpr=2&width=1246"
                             alt="slider-1" className='w-full h-full object-cover rounded-lg'/>
                     </SwiperSlide>
             </Swiper>
